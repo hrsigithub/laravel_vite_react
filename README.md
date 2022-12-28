@@ -64,3 +64,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+---
+## 参考サイト
+https://reffect.co.jp/laravel/laravel9_vite_react
+
+メモ：
+    Reactを利用して開発を進める際にはnpm run devを必ず実行しておく必要があります。
